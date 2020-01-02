@@ -1,4 +1,19 @@
-• Treat infrastructure as a product (IaC) by contributing ideas on how to continually improve automation services for server provisioning, configuration management and software deployment and resiliency of the platform.
+  Currently working as DevOps Architect at NBNCo specialised in the architecture of Continuous Integration and automation principles to the whole of project life cycle in order to achieve improved deploy frequency that can lead to faster time to market and lower failure rate in a shortened lead time.
+• 13+ years of Overall technology industry experience with an emphasis on delivery, optimisation, automation and continuous improvement in Telecom, Banking and Retail domains.
+• Consult technical personnel and management of clients on the industry-best practices, discuss, persuade and agree on the most innovative approaches applicable in customer landscape;
+• Proactively identify and drive automation of tasks associated with end-to-end deployment delivery;
+• Demonstrated ability to think strategically and outside the box coupled with practical execution to solve multi-dimensional, complex business and technology challenges
+• Strong infrastructure background spanning creation & maintenance of environments; assessing usage & optimising for cost and performance
+• Hands on experience in designing and implementing multi cloud platform SaaS solutions and in house to cloud migration solutions on large scale projects using industry leading cloud provides like AWS and Azure
+• Hands on implementation experience with AWS services like EC2, RDS, Route53, VPC, Lambda, API Gateway, ACS, Cloud formation, CW, Code Pipeline and cloud agnostic tools like terraform and Kubernetes.
+• Excellent knowledge of scripting & orchestration languages: Python, shell, ansible
+• Well-versed in implementing containerisation solutions for faster development and test cycles using docker & Kubernetes
+• Strong knowledge of SDLC including Agile scrum experience
+• Implemented full scale CICD platform for various clients in telecom, banking domains across globe including complex and agile environments.
+• Experienced in application server administration tasks for WebLogic and Linux System Administration.  
+
+
+Treat infrastructure as a product (IaC) by contributing ideas on how to continually improve automation services for server provisioning, configuration management and software deployment and resiliency of the platform.
 • Accountable for the reliability, performance, scalability, and security of all technical designs and implementations in Comptel’s DevOps practice.
 • Responsible for ensuring timely delivery for multiple concurrent projects while meeting organizational key performance indicators.
 • Develop and maintain documentation and diagrams outlining automated solutions and environmental architecture for Comptel’s OSS Fulfillment stack.
@@ -10,3 +25,6 @@
 • Take care of maintaining Comptel's clients Linux server instances including upgrades, patching and backup of the servers for high availability.
 • Travel to customer locations across globe and induce continuous integration practices to developers and install the CICD systems at customer premises.
 • Providing the necessary SME support for any issues related to DevOps practices.
+
+
+
