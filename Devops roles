@@ -1,0 +1,12 @@
+• Treat infrastructure as a product (IaC) by contributing ideas on how to continually improve automation services for server provisioning, configuration management and software deployment and resiliency of the platform.
+• Accountable for the reliability, performance, scalability, and security of all technical designs and implementations in Comptel’s DevOps practice.
+• Responsible for ensuring timely delivery for multiple concurrent projects while meeting organizational key performance indicators.
+• Develop and maintain documentation and diagrams outlining automated solutions and environmental architecture for Comptel’s OSS Fulfillment stack.
+• Design and implement Continuous Integration & Delivery practices for the build and deployment of Comptel’s OSS fulfilment products such as Order Management, Inventory, Catalog and number mgmt.
+• Manage implementation, installation and support of server class hardware and infrastructure using automated ansible provisioning scripts.
+• Manage all CM tools (JIRA, Artifactory, GIT, Maven, Jenkins, ANT, GitLab, Ansible) and their usage / process ensuring traceability, repeatability, quality, and support.
+• Re architect a legacy SVN repository from pure script dependency and no representation of releases to a git repository having clear direction regarding where code resides and the difference between releases.
+• Implemented a Continuous Delivery pipeline with Docker, Jenkins and GitLab and Openstack images, whenever a new gitlab branch gets started, Jenkins, our Continuous Integration server, automatically attempts to build a new Docker container from it.
+• Take care of maintaining Comptel's clients Linux server instances including upgrades, patching and backup of the servers for high availability.
+• Travel to customer locations across globe and induce continuous integration practices to developers and install the CICD systems at customer premises.
+• Providing the necessary SME support for any issues related to DevOps practices.
